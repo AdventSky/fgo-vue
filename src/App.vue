@@ -7,6 +7,9 @@
       <li class="nav-item">
         <router-link class="nav-link" to="/ce">Craft Essences</router-link>
       </li>
+      <li class="nav-item">
+        <router-link class="nav-link" to="/">Test</router-link>
+      </li>
     </ul>
     <router-view></router-view>
   </div>
